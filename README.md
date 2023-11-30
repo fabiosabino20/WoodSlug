@@ -1,7 +1,5 @@
 
 
-## Game XX
+## WoodSlug
 
-**By Nautilus Company**
-
-[Wiki](https://github.com/Hyperionlll/lab-eng-software/wiki)
+Unity 2D Game Project - Mackenzie Presbyterian University (UPM) - Computer Science - Software Engineering Subject
